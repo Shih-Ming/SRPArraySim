@@ -1,7 +1,6 @@
 from mpl_toolkits import mplot3d
 from Drone import (Drone, Master, Slave, drone_generating)
 import Globals as gb
-import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy import signal
